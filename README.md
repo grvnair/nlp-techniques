@@ -1,5 +1,16 @@
 # nlp-techniques
 
+Built a Spam Classifier using different Vectorization techniques in NLP.
+
+Project Pipeline:
+1. Data Collection
+2. Tokenize
+3. Clean text
+4. Vectorize
+5. Machine Learning/Deep Learning Algorithm
+6. Evaluate Metrics
+
+
 TF-IDF
 
 1. Simple document vectors that represent how important a word is to a document within a corpus.
